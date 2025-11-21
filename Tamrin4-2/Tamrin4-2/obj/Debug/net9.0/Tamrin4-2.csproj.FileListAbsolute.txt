@@ -1,0 +1,14 @@
+C:\Users\ali\Downloads\uni\Tamrin4-2\Tamrin4-2\bin\Debug\net9.0\Tamrin4-2.exe
+C:\Users\ali\Downloads\uni\Tamrin4-2\Tamrin4-2\bin\Debug\net9.0\Tamrin4-2.deps.json
+C:\Users\ali\Downloads\uni\Tamrin4-2\Tamrin4-2\bin\Debug\net9.0\Tamrin4-2.runtimeconfig.json
+C:\Users\ali\Downloads\uni\Tamrin4-2\Tamrin4-2\bin\Debug\net9.0\Tamrin4-2.dll
+C:\Users\ali\Downloads\uni\Tamrin4-2\Tamrin4-2\bin\Debug\net9.0\Tamrin4-2.pdb
+C:\Users\ali\Downloads\uni\Tamrin4-2\Tamrin4-2\obj\Debug\net9.0\Tamrin4-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali\Downloads\uni\Tamrin4-2\Tamrin4-2\obj\Debug\net9.0\Tamrin4-2.AssemblyInfoInputs.cache
+C:\Users\ali\Downloads\uni\Tamrin4-2\Tamrin4-2\obj\Debug\net9.0\Tamrin4-2.AssemblyInfo.cs
+C:\Users\ali\Downloads\uni\Tamrin4-2\Tamrin4-2\obj\Debug\net9.0\Tamrin4-2.csproj.CoreCompileInputs.cache
+C:\Users\ali\Downloads\uni\Tamrin4-2\Tamrin4-2\obj\Debug\net9.0\Tamrin4-2.dll
+C:\Users\ali\Downloads\uni\Tamrin4-2\Tamrin4-2\obj\Debug\net9.0\refint\Tamrin4-2.dll
+C:\Users\ali\Downloads\uni\Tamrin4-2\Tamrin4-2\obj\Debug\net9.0\Tamrin4-2.pdb
+C:\Users\ali\Downloads\uni\Tamrin4-2\Tamrin4-2\obj\Debug\net9.0\Tamrin4-2.genruntimeconfig.cache
+C:\Users\ali\Downloads\uni\Tamrin4-2\Tamrin4-2\obj\Debug\net9.0\ref\Tamrin4-2.dll
